@@ -1,0 +1,22 @@
+{
+  "name": "cardiocare-ai",
+  "version": "1.0.0",
+  "description": "CardioCare AI – Autonomous Hospital Appointment Booking Agent",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed",
+    "test": "cd server && npm test"
+  },
+  "keywords": [
+    "agentic-ai",
+    "healthcare",
+    "appointment-booking",
+    "mern",
+    "autonomous-agent",
+    "osm",
+    "gemini"
+  ],
+  "author": "CardioCare AI Academic Research Team",
+  "license": "MIT"
+}
